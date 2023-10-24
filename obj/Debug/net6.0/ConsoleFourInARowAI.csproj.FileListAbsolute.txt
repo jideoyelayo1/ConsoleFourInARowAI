@@ -1,0 +1,14 @@
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\bin\Debug\net6.0\ConsoleFourInARowAI.exe
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\bin\Debug\net6.0\ConsoleFourInARowAI.deps.json
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\bin\Debug\net6.0\ConsoleFourInARowAI.runtimeconfig.json
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\bin\Debug\net6.0\ConsoleFourInARowAI.dll
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\bin\Debug\net6.0\ConsoleFourInARowAI.pdb
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\obj\Debug\net6.0\ConsoleFourInARowAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\obj\Debug\net6.0\ConsoleFourInARowAI.AssemblyInfoInputs.cache
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\obj\Debug\net6.0\ConsoleFourInARowAI.AssemblyInfo.cs
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\obj\Debug\net6.0\ConsoleFourInARowAI.csproj.CoreCompileInputs.cache
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\obj\Debug\net6.0\ConsoleFourInARowAI.dll
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\obj\Debug\net6.0\refint\ConsoleFourInARowAI.dll
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\obj\Debug\net6.0\ConsoleFourInARowAI.pdb
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\obj\Debug\net6.0\ConsoleFourInARowAI.genruntimeconfig.cache
+C:\Users\JideO\Documents\projects\AI\ConsoleFourInARowAI\obj\Debug\net6.0\ref\ConsoleFourInARowAI.dll
